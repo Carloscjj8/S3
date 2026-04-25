@@ -1,3 +1,6 @@
+# Description of what this change includesSpelling errors of Resources, changed syntax to AWS::S3::Bucket, moved Bucket policy under the resources section, defined a type for the bucket policy, and fixed the version date.
+# Revision number 2019-09-09
+# Date 04/25/2026
 AWSTemplateFormatVersion: 2019-09-09
 Resorces:
   S3Bucket:
